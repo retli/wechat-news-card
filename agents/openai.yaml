@@ -1,0 +1,4 @@
+interface:
+  display_name: "视频号资讯卡片"
+  short_description: "热点选题、强标题与素材方案，确认后制作8～13秒静音资讯卡"
+  default_prompt: "用 $wechat-news-card 制作资讯卡片视频，先给我选题、强标题与素材方案，确认后生成视频、封面和发布简介，并说明保存位置。"

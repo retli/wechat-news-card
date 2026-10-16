@@ -1,0 +1,20 @@
+# Local files and credentials
+.DS_Store
+.env
+.env.*
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+
+# Generated workspace and media
+outputs/
+videos/
+inbox/
+library/
+exports/
+.hyperframes/
+.media/
+*.mp4
+*.mp3
+*.ttc
